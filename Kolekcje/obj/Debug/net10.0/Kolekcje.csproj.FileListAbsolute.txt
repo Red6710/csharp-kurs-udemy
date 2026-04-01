@@ -1,0 +1,14 @@
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\Kolekcje.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\Kolekcje.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\Kolekcje.AssemblyInfo.cs
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\Kolekcje.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Kolekcje\bin\Debug\net10.0\Kolekcje.exe
+D:\Workplace\Repos\Kolekcje\bin\Debug\net10.0\Kolekcje.deps.json
+D:\Workplace\Repos\Kolekcje\bin\Debug\net10.0\Kolekcje.runtimeconfig.json
+D:\Workplace\Repos\Kolekcje\bin\Debug\net10.0\Kolekcje.dll
+D:\Workplace\Repos\Kolekcje\bin\Debug\net10.0\Kolekcje.pdb
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\Kolekcje.dll
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\refint\Kolekcje.dll
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\Kolekcje.pdb
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\Kolekcje.genruntimeconfig.cache
+D:\Workplace\Repos\Kolekcje\obj\Debug\net10.0\ref\Kolekcje.dll

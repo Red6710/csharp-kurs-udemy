@@ -1,0 +1,14 @@
+D:\Workplace\Repos\Książka Telefoniczna\bin\Debug\net10.0\Książka Telefoniczna.exe
+D:\Workplace\Repos\Książka Telefoniczna\bin\Debug\net10.0\Książka Telefoniczna.deps.json
+D:\Workplace\Repos\Książka Telefoniczna\bin\Debug\net10.0\Książka Telefoniczna.runtimeconfig.json
+D:\Workplace\Repos\Książka Telefoniczna\bin\Debug\net10.0\Książka Telefoniczna.dll
+D:\Workplace\Repos\Książka Telefoniczna\bin\Debug\net10.0\Książka Telefoniczna.pdb
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\Książka Telefoniczna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\Książka Telefoniczna.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\Książka Telefoniczna.AssemblyInfo.cs
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\Książka Telefoniczna.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\Książka Telefoniczna.dll
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\refint\Książka Telefoniczna.dll
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\Książka Telefoniczna.pdb
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\Książka Telefoniczna.genruntimeconfig.cache
+D:\Workplace\Repos\Książka Telefoniczna\obj\Debug\net10.0\ref\Książka Telefoniczna.dll

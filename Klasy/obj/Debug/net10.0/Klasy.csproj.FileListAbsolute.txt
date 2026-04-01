@@ -1,0 +1,14 @@
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\Klasy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\Klasy.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\Klasy.AssemblyInfo.cs
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\Klasy.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Klasy\bin\Debug\net10.0\Klasy.exe
+D:\Workplace\Repos\Klasy\bin\Debug\net10.0\Klasy.deps.json
+D:\Workplace\Repos\Klasy\bin\Debug\net10.0\Klasy.runtimeconfig.json
+D:\Workplace\Repos\Klasy\bin\Debug\net10.0\Klasy.dll
+D:\Workplace\Repos\Klasy\bin\Debug\net10.0\Klasy.pdb
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\Klasy.dll
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\refint\Klasy.dll
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\Klasy.pdb
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\Klasy.genruntimeconfig.cache
+D:\Workplace\Repos\Klasy\obj\Debug\net10.0\ref\Klasy.dll

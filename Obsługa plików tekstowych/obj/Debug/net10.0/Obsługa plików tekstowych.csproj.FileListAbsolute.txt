@@ -1,0 +1,14 @@
+D:\Workplace\Repos\Obsługa plików tekstowych\bin\Debug\net10.0\Obsługa plików tekstowych.exe
+D:\Workplace\Repos\Obsługa plików tekstowych\bin\Debug\net10.0\Obsługa plików tekstowych.deps.json
+D:\Workplace\Repos\Obsługa plików tekstowych\bin\Debug\net10.0\Obsługa plików tekstowych.runtimeconfig.json
+D:\Workplace\Repos\Obsługa plików tekstowych\bin\Debug\net10.0\Obsługa plików tekstowych.dll
+D:\Workplace\Repos\Obsługa plików tekstowych\bin\Debug\net10.0\Obsługa plików tekstowych.pdb
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\Obsługa plików tekstowych.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\Obsługa plików tekstowych.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\Obsługa plików tekstowych.AssemblyInfo.cs
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\Obsługa plików tekstowych.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\Obsługa plików tekstowych.dll
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\refint\Obsługa plików tekstowych.dll
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\Obsługa plików tekstowych.pdb
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\Obsługa plików tekstowych.genruntimeconfig.cache
+D:\Workplace\Repos\Obsługa plików tekstowych\obj\Debug\net10.0\ref\Obsługa plików tekstowych.dll

@@ -1,0 +1,14 @@
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\Appka Liczbowa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\Appka Liczbowa.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\Appka Liczbowa.AssemblyInfo.cs
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\Appka Liczbowa.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Appka Liczbowa\bin\Debug\net10.0\Appka Liczbowa.exe
+D:\Workplace\Repos\Appka Liczbowa\bin\Debug\net10.0\Appka Liczbowa.deps.json
+D:\Workplace\Repos\Appka Liczbowa\bin\Debug\net10.0\Appka Liczbowa.runtimeconfig.json
+D:\Workplace\Repos\Appka Liczbowa\bin\Debug\net10.0\Appka Liczbowa.dll
+D:\Workplace\Repos\Appka Liczbowa\bin\Debug\net10.0\Appka Liczbowa.pdb
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\Appka Liczbowa.dll
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\refint\Appka Liczbowa.dll
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\Appka Liczbowa.pdb
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\Appka Liczbowa.genruntimeconfig.cache
+D:\Workplace\Repos\Appka Liczbowa\obj\Debug\net10.0\ref\Appka Liczbowa.dll
