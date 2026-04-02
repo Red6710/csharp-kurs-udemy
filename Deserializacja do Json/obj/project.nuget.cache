@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vRDj/190J9Y=",
+  "success": true,
+  "projectFilePath": "D:\\Workplace\\Repos\\Deserializacja do Json\\Deserializacja do Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kocic\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

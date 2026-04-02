@@ -1,0 +1,15 @@
+D:\Workplace\Repos\Using\bin\Debug\net10.0\Using.exe
+D:\Workplace\Repos\Using\bin\Debug\net10.0\Using.deps.json
+D:\Workplace\Repos\Using\bin\Debug\net10.0\Using.runtimeconfig.json
+D:\Workplace\Repos\Using\bin\Debug\net10.0\Using.dll
+D:\Workplace\Repos\Using\bin\Debug\net10.0\Using.pdb
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.AssemblyInfo.cs
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.sourcelink.json
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.dll
+D:\Workplace\Repos\Using\obj\Debug\net10.0\refint\Using.dll
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.pdb
+D:\Workplace\Repos\Using\obj\Debug\net10.0\Using.genruntimeconfig.cache
+D:\Workplace\Repos\Using\obj\Debug\net10.0\ref\Using.dll

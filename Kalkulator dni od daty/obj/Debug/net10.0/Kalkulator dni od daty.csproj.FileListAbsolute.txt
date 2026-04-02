@@ -12,3 +12,4 @@ D:\Workplace\Repos\Kalkulator dni od daty\obj\Debug\net10.0\refint\Kalkulator dn
 D:\Workplace\Repos\Kalkulator dni od daty\obj\Debug\net10.0\Kalkulator dni od daty.pdb
 D:\Workplace\Repos\Kalkulator dni od daty\obj\Debug\net10.0\Kalkulator dni od daty.genruntimeconfig.cache
 D:\Workplace\Repos\Kalkulator dni od daty\obj\Debug\net10.0\ref\Kalkulator dni od daty.dll
+D:\Workplace\Repos\Kalkulator dni od daty\obj\Debug\net10.0\Kalkulator dni od daty.sourcelink.json

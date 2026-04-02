@@ -1,0 +1,18 @@
+D:\Workplace\Repos\Deserializacja do Json\bin\Debug\net10.0\Deserializacja do Json.exe
+D:\Workplace\Repos\Deserializacja do Json\bin\Debug\net10.0\Deserializacja do Json.deps.json
+D:\Workplace\Repos\Deserializacja do Json\bin\Debug\net10.0\Deserializacja do Json.runtimeconfig.json
+D:\Workplace\Repos\Deserializacja do Json\bin\Debug\net10.0\Deserializacja do Json.dll
+D:\Workplace\Repos\Deserializacja do Json\bin\Debug\net10.0\Deserializacja do Json.pdb
+D:\Workplace\Repos\Deserializacja do Json\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.csproj.AssemblyReference.cache
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.AssemblyInfo.cs
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.sourcelink.json
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserial.FEBE7F04.Up2Date
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.dll
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\refint\Deserializacja do Json.dll
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.pdb
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\Deserializacja do Json.genruntimeconfig.cache
+D:\Workplace\Repos\Deserializacja do Json\obj\Debug\net10.0\ref\Deserializacja do Json.dll
