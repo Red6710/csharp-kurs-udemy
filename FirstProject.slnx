@@ -6,6 +6,7 @@
   <Project Path="Klasy/Klasy.csproj" Id="8609b3bb-ac7d-4555-b35d-fa1c36c651c2" />
   <Project Path="Kolekcje/Kolekcje.csproj" Id="88617866-e53f-4574-b2fe-b9c63b2ebea6" />
   <Project Path="Książka Telefoniczna/Książka Telefoniczna.csproj" Id="a60d8fe5-e586-4f05-a21c-b6300b56aca7" />
+  <Project Path="Metody pomocnicze/Metody pomocnicze.csproj" Id="1456f705-ee34-4e59-b86f-3ce4556c63c4" />
   <Project Path="Obsługa plików tekstowych/Obsługa plików tekstowych.csproj" Id="5bdc62f7-2cd6-422e-aa76-c4051680c75d" />
   <Project Path="Typy referencyjne i wartościowe/Typy referencyjne i wartościowe.csproj" Id="599e40f9-a100-43d6-a3b4-a2178c373239" />
   <Project Path="Using/Using.csproj" Id="410ebc28-5b49-4ea1-94a0-dc21668bdb3f" />

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Metody pomocnicze/1.0.0": {
+        "runtime": {
+          "Metody pomocnicze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metody pomocnicze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

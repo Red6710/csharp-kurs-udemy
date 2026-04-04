@@ -1,0 +1,15 @@
+D:\Workplace\Repos\Metody pomocnicze\bin\Debug\net10.0\Metody pomocnicze.exe
+D:\Workplace\Repos\Metody pomocnicze\bin\Debug\net10.0\Metody pomocnicze.deps.json
+D:\Workplace\Repos\Metody pomocnicze\bin\Debug\net10.0\Metody pomocnicze.runtimeconfig.json
+D:\Workplace\Repos\Metody pomocnicze\bin\Debug\net10.0\Metody pomocnicze.dll
+D:\Workplace\Repos\Metody pomocnicze\bin\Debug\net10.0\Metody pomocnicze.pdb
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.AssemblyInfo.cs
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.sourcelink.json
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.dll
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\refint\Metody pomocnicze.dll
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.pdb
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\Metody pomocnicze.genruntimeconfig.cache
+D:\Workplace\Repos\Metody pomocnicze\obj\Debug\net10.0\ref\Metody pomocnicze.dll

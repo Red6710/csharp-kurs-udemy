@@ -1,26 +1,32 @@
-﻿using System.Reflection;
+﻿using System.ComponentModel;
+using System.Reflection;
 using System.Reflection.Metadata;
+using System.Transactions;
 
 class Program
 {
     public class Brace
     {
 
-        public static bool validBraces(String braces)
+        public static string LongestConsec(string[] strarr, int k)
         {
-            var hasBrackets = braces.Contains("[");
-            var hasbraces = braces.Contains("(");
-            var hasCurlyBraces = braces.Contains("{");
-            bool isCorrect = false;
-
-            if (hasBrackets == true)
+            var lenght = strarr.Length;
+            string currentString;
+            string longestString ="";
+            
+            for(int i =0; i<= lenght;)
             {
-               return isCorrect = braces.IndexOf(']') < braces.IndexOf('[');
                
+                currentString = string.Concat(strarr[i], strarr[i++]);
+                i++;
+                return  longestString = longestString.Length > currentString.Length ? longestString : currentString;
+                
             }
-            return isCorrect;
-        }
 
+
+
+            return longestString;
+        }
         static void Main(string[] args)
         {
 
@@ -33,8 +39,11 @@ class Program
             //Console.Write("Od twoich urodzin upłynęło:");
 
             //Console.WriteLine(timeSpan); 
-            Console.WriteLine(validBraces("[]"));
+            Console.WriteLine(LongestConsec(["zone", "abigail", "theta", "form", "libe", "zas", "theta", "abigail"], 2));
 
         }
     }
+
+    
 }
+
