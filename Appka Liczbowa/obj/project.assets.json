@@ -8,19 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kocic\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workplace\\Repos\\Appka Liczbowa\\Appka Liczbowa.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\Appka Liczbowa.csproj",
       "projectName": "Appka Liczbowa",
-      "projectPath": "D:\\Workplace\\Repos\\Appka Liczbowa\\Appka Liczbowa.csproj",
-      "packagesPath": "C:\\Users\\kocic\\.nuget\\packages\\",
-      "outputPath": "D:\\Workplace\\Repos\\Appka Liczbowa\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\Appka Liczbowa.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kocic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +37,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -51,7 +55,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",

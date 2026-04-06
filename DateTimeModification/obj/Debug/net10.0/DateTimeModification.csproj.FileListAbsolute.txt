@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\bin\Debug\net10.0\DateTimeModification.exe
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\bin\Debug\net10.0\DateTimeModification.deps.json
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\bin\Debug\net10.0\DateTimeModification.runtimeconfig.json
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\bin\Debug\net10.0\DateTimeModification.dll
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\bin\Debug\net10.0\DateTimeModification.pdb
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\DateTimeModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\DateTimeModification.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\DateTimeModification.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\DateTimeModification.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\DateTimeModification.dll
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\refint\DateTimeModification.dll
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\DateTimeModification.pdb
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\DateTimeModification.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DateTimeModification\DateTimeModification\obj\Debug\net10.0\ref\DateTimeModification.dll
