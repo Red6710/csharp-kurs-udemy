@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\Appka Liczbowa.csproj": {}
+    "D:\\Workplace\\Repos\\Appka Liczbowa\\Appka Liczbowa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\Appka Liczbowa.csproj": {
+    "D:\\Workplace\\Repos\\Appka Liczbowa\\Appka Liczbowa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\Appka Liczbowa.csproj",
+        "projectUniqueName": "D:\\Workplace\\Repos\\Appka Liczbowa\\Appka Liczbowa.csproj",
         "projectName": "Appka Liczbowa",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\Appka Liczbowa.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\csharp-kurs-udemy\\Appka Liczbowa\\obj\\",
+        "projectPath": "D:\\Workplace\\Repos\\Appka Liczbowa\\Appka Liczbowa.csproj",
+        "packagesPath": "C:\\Users\\kocic\\.nuget\\packages\\",
+        "outputPath": "D:\\Workplace\\Repos\\Appka Liczbowa\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kocic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,6 +26,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -48,6 +45,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",

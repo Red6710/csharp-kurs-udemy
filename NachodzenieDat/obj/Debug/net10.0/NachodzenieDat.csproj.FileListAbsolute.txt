@@ -1,0 +1,15 @@
+D:\Workplace\Repos\NachodzenieDat\bin\Debug\net10.0\NachodzenieDat.exe
+D:\Workplace\Repos\NachodzenieDat\bin\Debug\net10.0\NachodzenieDat.deps.json
+D:\Workplace\Repos\NachodzenieDat\bin\Debug\net10.0\NachodzenieDat.runtimeconfig.json
+D:\Workplace\Repos\NachodzenieDat\bin\Debug\net10.0\NachodzenieDat.dll
+D:\Workplace\Repos\NachodzenieDat\bin\Debug\net10.0\NachodzenieDat.pdb
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.AssemblyInfoInputs.cache
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.AssemblyInfo.cs
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.sourcelink.json
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.dll
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\refint\NachodzenieDat.dll
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.pdb
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\NachodzenieDat.genruntimeconfig.cache
+D:\Workplace\Repos\NachodzenieDat\obj\Debug\net10.0\ref\NachodzenieDat.dll

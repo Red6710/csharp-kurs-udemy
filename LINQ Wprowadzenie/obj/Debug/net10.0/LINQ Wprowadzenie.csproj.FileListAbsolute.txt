@@ -1,0 +1,18 @@
+D:\Workplace\Repos\LINQ Wprowadzenie\bin\Debug\net10.0\LINQ Wprowadzenie.exe
+D:\Workplace\Repos\LINQ Wprowadzenie\bin\Debug\net10.0\LINQ Wprowadzenie.deps.json
+D:\Workplace\Repos\LINQ Wprowadzenie\bin\Debug\net10.0\LINQ Wprowadzenie.runtimeconfig.json
+D:\Workplace\Repos\LINQ Wprowadzenie\bin\Debug\net10.0\LINQ Wprowadzenie.dll
+D:\Workplace\Repos\LINQ Wprowadzenie\bin\Debug\net10.0\LINQ Wprowadzenie.pdb
+D:\Workplace\Repos\LINQ Wprowadzenie\bin\Debug\net10.0\CsvHelper.dll
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.csproj.AssemblyReference.cache
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.AssemblyInfoInputs.cache
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.AssemblyInfo.cs
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.sourcelink.json
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wpr.6B789FF3.Up2Date
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.dll
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\refint\LINQ Wprowadzenie.dll
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.pdb
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\LINQ Wprowadzenie.genruntimeconfig.cache
+D:\Workplace\Repos\LINQ Wprowadzenie\obj\Debug\net10.0\ref\LINQ Wprowadzenie.dll

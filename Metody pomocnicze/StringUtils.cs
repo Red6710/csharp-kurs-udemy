@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace Metody_pomocnicze
 {
@@ -31,10 +32,10 @@ namespace Metody_pomocnicze
             return count;
         }
 
-        //public string RemoveWhitespace(string input)
-        //{
-        //    StringBuilder sb = new StringBuilder();
+        public string RemoveWhitespace(string input)
+        {
+           return Regex.Replace(input, @"\s+", "");
 
-        //}
+        }
     }
 }

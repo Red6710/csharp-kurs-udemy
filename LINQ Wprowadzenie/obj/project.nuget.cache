@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YkcuYkdeXw=",
+  "success": true,
+  "projectFilePath": "D:\\Workplace\\Repos\\LINQ Wprowadzenie\\LINQ Wprowadzenie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kocic\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
