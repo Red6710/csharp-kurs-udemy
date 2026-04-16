@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Appka Liczbowa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1c8efeace4c2b9c8ad5f5a67cfa233ebba190f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+492571c4a2b187ffebde9dacd0ff682e842b0230")]
 [assembly: System.Reflection.AssemblyProductAttribute("Appka Liczbowa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Appka Liczbowa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

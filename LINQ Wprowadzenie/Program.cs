@@ -23,10 +23,24 @@ namespace FirstProject
             string csvPath = @"D:\Program Files\TextFiles\LINQ Files\googleplaystore1.csv";
             var googleApps = LoadGoogleAps(csvPath);
 
-            DataSetOperation(googleApps);
+            GroupData(googleApps);
 
            
 
+        }
+
+        static void GroupData(IEnumerable<GoogleApp> googleApps)
+        {
+            var categoryGroup = googleApps.GroupBy(app => new { app.Category, app.Type });
+
+            foreach (var group in categoryGroup)
+            {
+                var key = group.Key;
+                var apps = group.ToList();
+                Console.WriteLine($"Displaing elemeents for group {group.Key.Category}, {group.Key.Type}");
+                Display(apps);
+            }
+           
         }
 
         static void DataSetOperation(IEnumerable<GoogleApp> googleApps)
@@ -59,6 +73,16 @@ namespace FirstProject
 
 
 
+        }
+
+        static void DataVerification(IEnumerable<GoogleApp> googleApps)
+        {
+            var wheatherApplications = googleApps.Where((GoogleApp app) => app.Category == Category.WEATHER)
+                .All(app => app.Reviews > 11);
+            var anyOperatorCheck = googleApps.Where((GoogleApp app) => app.Category == Category.WEATHER)
+                .Any(app => app.Reviews <3_000_000);
+            Console.WriteLine($"Is good: {anyOperatorCheck}");
+                                    
         }
 
         static void OrderData (IEnumerable<GoogleApp> googleApps)
