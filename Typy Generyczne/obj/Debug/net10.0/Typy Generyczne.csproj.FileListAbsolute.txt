@@ -1,0 +1,15 @@
+D:\Workplace\Repos\Typy Generyczne\bin\Debug\net10.0\Typy Generyczne.exe
+D:\Workplace\Repos\Typy Generyczne\bin\Debug\net10.0\Typy Generyczne.deps.json
+D:\Workplace\Repos\Typy Generyczne\bin\Debug\net10.0\Typy Generyczne.runtimeconfig.json
+D:\Workplace\Repos\Typy Generyczne\bin\Debug\net10.0\Typy Generyczne.dll
+D:\Workplace\Repos\Typy Generyczne\bin\Debug\net10.0\Typy Generyczne.pdb
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.AssemblyInfoInputs.cache
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.AssemblyInfo.cs
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.csproj.CoreCompileInputs.cache
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.sourcelink.json
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.dll
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\refint\Typy Generyczne.dll
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.pdb
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\Typy Generyczne.genruntimeconfig.cache
+D:\Workplace\Repos\Typy Generyczne\obj\Debug\net10.0\ref\Typy Generyczne.dll

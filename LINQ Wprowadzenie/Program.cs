@@ -23,10 +23,37 @@ namespace FirstProject
             string csvPath = @"D:\Program Files\TextFiles\LINQ Files\googleplaystore1.csv";
             var googleApps = LoadGoogleAps(csvPath);
 
-            GroupData(googleApps);
+            GroupDataOperations(googleApps);
 
            
 
+        }
+
+        static void GroupDataOperations(IEnumerable<GoogleApp> googleApps)
+        {
+            var categoryGroup = googleApps
+                .GroupBy(g => g.Category)
+                .Where(g => g.Min(a=>a.Reviews >= 10));
+
+            foreach (var group in categoryGroup)
+            {
+                var averageReviews = group.Average(g => g.Reviews);
+                var minReviews = group.Min( g => g.Reviews);
+                var maxReviews = group.Max( g => g.Reviews);
+
+               var reviewsCount =  group.Sum( g => g.Reviews);
+
+                var allAppsFromGroupHaveRatingofThree = group.All(a => a.Rating > 3.0);
+
+                Console.WriteLine($"Categoy: {group.Key}");
+                Console.WriteLine($"Average Reviews: {averageReviews}");
+                Console.WriteLine($"Min Review: {minReviews}");
+                Console.WriteLine($"Max Reviews: {maxReviews}");
+                Console.WriteLine($"Reviews Count: {reviewsCount}");
+                Console.WriteLine();
+
+
+            }
         }
 
         static void GroupData(IEnumerable<GoogleApp> googleApps)

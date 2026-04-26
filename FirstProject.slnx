@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Adresses/Adresses.csproj" Id="3558feaf-6f34-47c2-84e9-7ca71e3409eb" />
   <Project Path="Appka Liczbowa/Appka Liczbowa.csproj" Id="8e6ba6e9-1390-4699-bc76-6f42111bf084" />
   <Project Path="Deserializacja do Json/Deserializacja do Json.csproj" Id="f5d345cb-61ca-48fa-b494-4adaf7759ba9" />
   <Project Path="FirstProject/FirstProject.csproj" />
@@ -11,6 +12,7 @@
   <Project Path="MetodyRozszerzające/MetodyRozszerzające.csproj" Id="96d85fd9-4d44-4cdc-b8fd-2ed6a3a8fdcf" />
   <Project Path="NachodzenieDat/NachodzenieDat.csproj" />
   <Project Path="Obsługa plików tekstowych/Obsługa plików tekstowych.csproj" Id="5bdc62f7-2cd6-422e-aa76-c4051680c75d" />
+  <Project Path="Typy Generyczne/Typy Generyczne.csproj" Id="fb28015e-92d6-40f1-acd4-bb6725885523" />
   <Project Path="Typy referencyjne i wartościowe/Typy referencyjne i wartościowe.csproj" Id="599e40f9-a100-43d6-a3b4-a2178c373239" />
   <Project Path="Using/Using.csproj" Id="410ebc28-5b49-4ea1-94a0-dc21668bdb3f" />
 </Solution>
